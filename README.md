@@ -1,5 +1,5 @@
 # Arduino Memoria Flash
-Como guardar datos en la memoria flash con la libreria, recordar que la memoria flash se guarda los datos aunque el arduino pierda la fuente de alimentacion
+En Arduino la memoria flash es donde el sketch del arduino en binario es almacenado, esta dividida en dos zonas una para el bootloader y otra para almacenar el sketch.
 
 #include <avr/pgmspace.h>
 const char string_0[] PROGMEM = "String 0"; // "String 0" etc are strings to store - change to suit.
