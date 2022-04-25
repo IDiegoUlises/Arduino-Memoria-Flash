@@ -1,4 +1,4 @@
-# Arduino-Memoria-Flash
+# Arduino Memoria Flash
 Como guardar datos en la memoria flash con la libreria, recordar que la memoria flash se guarda los datos aunque el arduino pierda la fuente de alimentacion
 
 #include <avr/pgmspace.h>
