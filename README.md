@@ -13,7 +13,7 @@ const char cadena_2[] PROGMEM = "Cadena 2";
 //Se declara la variable como un modificador de variable y guarda los array en la memoria flash
 const char* const tabla[] PROGMEM = {cadena_0, cadena_1, cadena_2,};
 
-//Este array es donde vamos almacenar la variable guardada en la memoria flash
+//Este array se almacena en la memoria Sram(Ram Estatica) del Arduino
 char arreglo[30]; //El array debe ser lo suficientemente grande para almacenar la cadena
 
 void setup()
