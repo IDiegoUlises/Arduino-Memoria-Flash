@@ -25,7 +25,7 @@ void loop()
 {
   for (int i = 0; i < 3; i++) //Recorre el array mostrando cada arreglo
   {
-    strcpy_P(arreglo,(char*)pgm_read_word(&(tabla[i]))); // Realiza un copia de la variable almacenada en la memoria flash en la variable arreglo
+    strcpy_P(arreglo,(char*)pgm_read_word(&(tabla[i]))); //Realiza un copia de la variable almacenada en la memoria flash en la variable arreglo
     Serial.println(arreglo);
     delay(500);
   }
