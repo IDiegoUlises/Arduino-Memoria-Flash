@@ -35,3 +35,7 @@ void loop()
 Cuando se guarde muchos datos y que la memoria Sram(Ram estatica) del Arduino no tenga capacidad suficiente para almacenar todos los datos.
 
 * **Al utilizar este codigo los datos se guardan en la memoria flash del Arduino**
+* **La memoria flash es mucho mas rapida que la memoria EEPPROM
+* **La memoria flash no tiene limite de escritura es decir que puede ser modificada infinitamente
+
+
