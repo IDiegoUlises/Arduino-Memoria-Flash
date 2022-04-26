@@ -10,7 +10,7 @@ const char cadena_1[] PROGMEM = "Cadena 1";
 const char cadena_2[] PROGMEM = "Cadena 2";
 
 
-//Se declara la variable como un modificador de variable 
+//Se declara la variable como un modificador de variable y guarda los array en la memoria flash
 const char* const tabla[] PROGMEM = {cadena_0, cadena_1, cadena_2,};
 
 //Este array es donde vamos almacenar la variable guardada en la memoria flash
