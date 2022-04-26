@@ -39,3 +39,13 @@ Cuando se guarde muchos datos y que la memoria Sram(Ram estatica) del Arduino no
 * **La memoria flash no tiene limite de borrado**
 
 # Guardar Datos en la Memoria Flash Cuando se Imprime Texto 
+<p align="center">
+  <img  src="https://github.com/IDiegoUlises/Arduino-Memoria-Flash/blob/main/Images/Hola-Mundo.jpg">
+</p>
+
+* **Este es un hola mundo normal ocupa 198 bytes**
+
+<p align="center">
+  <img  src="https://github.com/IDiegoUlises/Arduino-Memoria-Flash/blob/main/Images/Hola-Mundo-Con-F.jpg">
+</p>
+
