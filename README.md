@@ -34,4 +34,4 @@ void loop()
 # ¿Cuando Guardar Datos en la Memoria Flash?
 Cuando se guarde muchos datos y que la memoria Sram(Ram estatica) del Arduino no tenga capacidad suficiente para almacenar todos los datos.
 
-* Al utilizar este codigo los datos se guardan en la memoria flash del Arduino
+* **Al utilizar este codigo los datos se guardan en la memoria flash del Arduino**
