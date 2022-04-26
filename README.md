@@ -43,11 +43,12 @@ Cuando se guarde muchos datos y que la memoria Sram(Ram estatica) del Arduino no
   <img  src="https://github.com/IDiegoUlises/Arduino-Memoria-Flash/blob/main/Images/Hola-Mundo.jpg">
 </p>
 
-* ## Este es un hola mundo normal ocupa 198 bytes
+## Este es un hola mundo que ocupa 198 bytes
 
 <p align="center">
   <img  src="https://github.com/IDiegoUlises/Arduino-Memoria-Flash/blob/main/Images/Hola-Mundo-Con-F.jpg">
 </p>
 
-* ## Este es un hola mundo normal ocupa 188 bytes
+## Este es un hola mundo que ocupa 188 bytes
+* **Esto sucede porque al agregarle la letra "F" decimos que la variable la guarde en la memoria flash**
 
