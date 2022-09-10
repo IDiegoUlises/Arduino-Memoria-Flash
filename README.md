@@ -34,9 +34,9 @@ void loop()
 # ¿Cuando Guardar Datos en la Memoria Flash?
 Cuando se guarde muchos datos y que la memoria Sram(Ram estatica) del Arduino no tenga capacidad suficiente para almacenar todos los datos.
 
-* **La memoria flash es mucho mas rapida que la memoria EEPPROM**
-* **La memoria flash no tiene limite de escritura puede ser modificada infinitamente**
-* **La memoria flash no tiene limite de borrado**
+* La memoria flash es mucho mas rapida que la memoria EEPPROM
+* La memoria flash no tiene limite de escritura puede ser modificada infinitamente
+* La memoria flash no tiene limite de borrado
 
 # Guardar Variables en la Memoria Flash Cuando se Imprime Texto 
 <p align="center">
