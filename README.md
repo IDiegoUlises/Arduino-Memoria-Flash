@@ -18,7 +18,7 @@ char arreglo[10]; //El array debe ser lo suficientemente grande para almacenar l
 
 void setup()
 {
-  Serial.begin(9600);
+  Serial.begin(9600); //Inicia el puerto serial
 }
 
 void loop()
