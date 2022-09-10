@@ -38,17 +38,17 @@ Cuando se guarde muchos datos y que la memoria Sram(Ram estatica) del Arduino no
 * La memoria flash no tiene limite de escritura puede ser modificada infinitamente
 * La memoria flash no tiene limite de borrado
 
-# Guardar Variables en la Memoria Flash Cuando se Imprime Texto 
+# Guardar Datos en la Memoria Flash Cuando se Imprime Texto 
 <p align="center">
   <img  src="https://github.com/IDiegoUlises/Arduino-Memoria-Flash/blob/main/Images/Hola-Mundo.jpg">
 </p>
 
-### Este es un hola mundo que ocupa 198 bytes
+* **Este es un hola mundo que ocupa 198 bytes**
 
 <p align="center">
   <img  src="https://github.com/IDiegoUlises/Arduino-Memoria-Flash/blob/main/Images/Hola-Mundo-Con-F.jpg">
 </p>
 
-### Este es un hola mundo que ocupa 188 bytes
-* **Esto sucede porque al agregarle la letra "F" decimos que la variable la guarde en la memoria flash**
+* **Este es un hola mundo que ocupa 188 bytes**
+* **Esto sucede porque al agregarle la letra "F" la variable la guarda en la memoria flash**
 
