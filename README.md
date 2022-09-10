@@ -1,5 +1,5 @@
 # Arduino Memoria Flash
-La memoria flash es donde el sketch del arduino es almacenado, esta dividida en dos zonas una para el bootloader y otra para almacenar el sketch por esta razon solo es posible almacenar los datos al mismo tiempo que se compila el sketch.
+La memoria flash es donde el sketch del Arduino es almacenado, esta dividida en dos zonas una para el bootloader y otra para almacenar el sketch por esta razon solo es posible almacenar los datos al mismo tiempo que se compila el sketch.
 
 ```c++
 #include <avr/pgmspace.h>
