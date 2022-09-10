@@ -1,4 +1,4 @@
-# Arduino Memoria Flash editar o guardar
+# Arduino Memoria Flash
 La memoria flash es donde el sketch del arduino es almacenado, esta dividida en dos zonas una para el bootloader y otra para almacenar el sketch por esta razon solo es posible almacenar los datos al mismo tiempo que se compila el sketch.
 
 ```c++
@@ -35,7 +35,7 @@ void loop()
 Cuando se guarde muchos datos y que la memoria Sram(Ram estatica) del Arduino no tenga capacidad suficiente para almacenar todos los datos.
 
 * **La memoria flash es mucho mas rapida que la memoria EEPPROM**
-* **La memoria flash no tiene limite de escritura es decir que puede ser modificada infinitamente**
+* **La memoria flash no tiene limite de escritura puede ser modificada infinitamente**
 * **La memoria flash no tiene limite de borrado**
 
 # Guardar Variables en la Memoria Flash Cuando se Imprime Texto 
